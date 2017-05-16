@@ -1,0 +1,4 @@
+分支使用说明：
+首先 有一个主branch：master是我们项目的最终成品。
+还有另外三个分支 branch1、branch2、branch3，分别分配给三个人。每个人完成自己的代码工作后提交到自己分配到的branch上，验证无误后，点击 pull request 
+选项将其pull到master上，即可。
